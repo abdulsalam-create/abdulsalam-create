@@ -9,6 +9,7 @@ Security researcher and full stack developer from Lagos, Nigeria. I report vulne
 - **Full stack:** PHP/Laravel, JavaScript, Node.js, Python, C#/Unity (AR)
 
 ## Featured projects
+- [bounty-scout](https://github.com/abdulsalam-create/bounty-scout) - ranks HackerOne, Bugcrowd and Intigriti programs by dupe risk and expected value to pick what to hunt next
 
 - [AI-client-tag-recon](https://github.com/abdulsalam-create/AI-client-tag-recon) - scans client-side tags and feature flags with a headless browser, driven by LLM function calling
 - [sysadmin-agent](https://github.com/abdulsalam-create/sysadmin-agent) - network operations assistant that checks and restarts servers through tool calls
