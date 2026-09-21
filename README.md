@@ -9,6 +9,7 @@ Security researcher and full stack developer from Lagos, Nigeria. I report vulne
 - **Full stack:** PHP/Laravel, JavaScript, Node.js, Python, C#/Unity (AR)
 
 ## Featured projects
+- [mcp-stateless-recon](https://github.com/abdulsalam-create/mcp-stateless-recon) - dependency-free, spec-accurate implementation of the stateless MCP 2026-07-28 protocol (Tasks extension, multi round-trip elicitation, 708 tests) behind an SSRF-guarded network-recon toolserver
 - [bounty-watch](https://github.com/abdulsalam-create/bounty-watch) - monitors HackerOne, Bugcrowd, YesWeHack and Intigriti every 6 hours for new programs, scope changes and new deploys, with email alerts and a [live dashboard](https://abdulsalam-create.github.io/bounty-watch/)
 - [bounty-scout](https://github.com/abdulsalam-create/bounty-scout) - ranks HackerOne, Bugcrowd and Intigriti programs by dupe risk and expected value to pick what to hunt next
 
