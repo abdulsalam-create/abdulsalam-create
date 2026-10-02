@@ -2,6 +2,10 @@
 
 Security researcher and full stack developer from Lagos, Nigeria. I report vulnerabilities on HackerOne, Bugcrowd and Intigriti, build web apps, and work on AI tool calling.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulsalam-create.github.io/portfolio/)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/seek3r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsalam-abdulsalam-64496a266/)
+
 ## What I do
 
 - **Bug bounty:** validated findings on HackerOne (stored XSS, business logic), Bugcrowd and Intigriti (response manipulation)
