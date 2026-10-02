@@ -23,4 +23,5 @@ Security researcher and full stack developer from Lagos, Nigeria. I report vulne
 
 - Portfolio: https://abdulsalam-create.github.io/portfolio/
 - LinkedIn: https://www.linkedin.com/in/abdulsalam-abdulsalam-64496a266/
+- dev.to: https://dev.to/seek3r
 - Email: abdulsalamaabdulsalam18@gmail.com
